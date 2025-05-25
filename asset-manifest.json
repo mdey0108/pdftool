@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/pdftool/static/css/main.dbfeddf3.css",
+    "main.js": "/pdftool/static/js/main.1a7686bd.js",
+    "static/js/239.edf40260.chunk.js": "/pdftool/static/js/239.edf40260.chunk.js",
+    "static/js/977.c6e41ba3.chunk.js": "/pdftool/static/js/977.c6e41ba3.chunk.js",
+    "static/js/455.05e1b332.chunk.js": "/pdftool/static/js/455.05e1b332.chunk.js",
+    "static/js/453.39f9e7ce.chunk.js": "/pdftool/static/js/453.39f9e7ce.chunk.js",
+    "index.html": "/pdftool/index.html",
+    "main.dbfeddf3.css.map": "/pdftool/static/css/main.dbfeddf3.css.map",
+    "main.1a7686bd.js.map": "/pdftool/static/js/main.1a7686bd.js.map",
+    "239.edf40260.chunk.js.map": "/pdftool/static/js/239.edf40260.chunk.js.map",
+    "977.c6e41ba3.chunk.js.map": "/pdftool/static/js/977.c6e41ba3.chunk.js.map",
+    "455.05e1b332.chunk.js.map": "/pdftool/static/js/455.05e1b332.chunk.js.map",
+    "453.39f9e7ce.chunk.js.map": "/pdftool/static/js/453.39f9e7ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbfeddf3.css",
+    "static/js/main.1a7686bd.js"
+  ]
+}
