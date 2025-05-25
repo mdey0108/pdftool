@@ -1,5 +1,6 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route, Link } from 'react-router-dom';
+// import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import Home from './pages/Home';
 import Tools from './pages/Tools';
 import './App.css';
@@ -15,7 +16,7 @@ function App() {
             <Link to="/tools">Tools</Link>
           </div>
         </nav>
-        
+
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/tools" element={<Tools />} />
